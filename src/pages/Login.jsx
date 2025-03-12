@@ -1,7 +1,7 @@
 const Login = () => {
     return (
       <div>
-        <h1>Login</h1>
+        <h1>Login-v2</h1>
         <form>
           <input type="email" placeholder="Email" required />
           <input type="password" placeholder="Password" required />
